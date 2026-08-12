@@ -1,0 +1,6 @@
+{
+  "name": "Uhhhm",
+  "description": "Game event website with GSAP animations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
